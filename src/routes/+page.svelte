@@ -18,8 +18,8 @@ i terminalen så kan du starte med oppgaven bruk pnpm run dev for å starte nett
 
 
 
-<!--her skal inputfeltet ligge inputen fra komponentet vises -->
-<div></div>
+<!--lag et inputfelt hvor det som er skrevet i inputfeltet skal bli vist i komponentet-->
+
 
 <!--legtill komponentet som skal vise valuen for inputfeltet-->
 
