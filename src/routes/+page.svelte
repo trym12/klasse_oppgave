@@ -1,7 +1,8 @@
 <!--
-helt først opne terminalen i øverste nivået i mapen å skriv: npm i -g pnpm 
-det instalerer pnpm som brukes for å instalere tingene for oppgaven etter det skriver dere: pnpm i 
-i terminalen så kan du starte med oppgaven bruk pnpm run dev for å starte nettsiden for oppgaven
+helt først opne terminalen i øverste nivået i mapen å skriv: pnpm i 
+viss det ikke virker skriv: npm i -g pnpm 
+så skriver du:  pnpm i
+i terminalen igjen så kan du starte med oppgaven
 -->
 
 <script>
